@@ -1,0 +1,21 @@
+{
+    "name": "divya",
+    "dob": "01-01-01",
+    "addresses": [
+        {
+            "type": "current",
+            "doorno": "1-23",
+            "street": "gandhi nagar",
+            "city": "hyd",
+            "pin": 50082
+        },
+        {
+            "type": "perm",
+            "doorno": "1-23",
+            "street": "gandhi nagar",
+            "city": "hyd",
+            "pin": 50082
+        }
+    ],
+    "skills": ["java", "devops", "cloud"]
+}
